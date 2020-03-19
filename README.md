@@ -2,7 +2,7 @@
 
 コンポーネント指向UI開発のためのDSL
 
-```
+```Ruby
 require "tsumiki"
 
 Tsumiki::Page.create { |state|
